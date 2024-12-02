@@ -1,0 +1,226 @@
+body {
+    font-family: Geneva;
+    background-image: url("pictures/bg.jpg");
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #121312;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+nav li {
+    margin: 0 15px;
+    position: relative;
+}
+
+nav a {
+    color: #FFEFFF;
+    text-decoration: none;
+    padding: 8px 20px;
+    position: relative;
+}
+
+.bold {
+    color: yellow;
+    font-weight: bold
+}
+
+.insidenavigation {
+    list-style: none;
+}
+
+.insidenavigation a {
+    color: yellow;
+    text-decoration: none;
+    padding: 3px 3px;
+    background-color: black;
+    border-radius: 30px;
+    font-size: 15px
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: black;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+    height: 100px
+}
+
+h3 {
+    font-size: 40px
+}
+
+.tabletext {
+    color:  white;
+    font-size: 20px;
+}
+
+.normaltext {
+    display: flex;
+    height: 100px;
+    font-size: 25px;
+    justify-content: center;
+    align-items: center
+}
+
+.imgs {
+    float: left;
+    padding-left: 170px
+}
+
+.smallimg {
+    margin: 10px
+}
+
+.examplestext {
+    width: 600px;
+
+    padding-right: 250px;
+    padding-top: 70px;
+    font-size: 30px
+}
+
+.examples {
+    text-align: center;
+    height: 800px
+}
+
+#passbg {
+    height: 734px;
+    background-image: url(pictures/passbg.jpg);
+    background-repeat: no-repeat;
+    padding-top: 60px;
+}
+
+#passbg p {
+    margin-top: 1em;
+    margin-bottom: 0.5em
+}
+
+#vydan {
+    padding-left: 150px
+}
+
+#code {
+    padding-left: 350px;
+    padding-top: 50px
+}
+
+#datavydachi {
+    float: left;
+    padding-top: 40px;
+    padding-left: 120px
+}
+
+#podpis1 {
+    padding-top: 30px;
+    padding-left: 40px
+}
+
+#podpis2 {
+    padding-left: 130px
+}
+
+#photo {
+    float: left;
+    padding-top: 152px;
+    padding-left: 23px
+}
+
+#paslastname {
+    float: left;
+    padding-top: 100px;
+    padding-left: 130px
+}
+
+#pasname {
+    float: left;
+    padding-top: 155px;
+    margin-left: -80px
+}
+
+#pasfathersname {
+    float: left;
+    padding-top: 180px;
+    margin-left: -100px
+}
+
+#gender {
+    float: left;
+    padding-top: 210px;
+    margin-left: -175px
+}
+
+#birthday {
+    float: left;
+    padding-top: 210px;
+    margin-left: -35px
+}
+
+#birthplace {
+    float: left;
+    padding-top: 235px;
+    margin-left: -100px
+}
+
+#translate {
+    margin-left: 150px;
+    margin-top: 400px
+}
+
+.Anna {
+    height: 300px;
+}
+
+.main {
+    font-size: 25px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.list {
+    height: 400px;
+    font-size: 25px;
+    padding-left: 50px
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.table{
+    padding-top: 100px;
+}
+
+.task{
+    font-size: 18px;
+    padding-left: 20px
+}
+
+form ul{
+    list-style: none;
+}
+
+.forma{
+    padding-left: 20px
+}
