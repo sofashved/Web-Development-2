@@ -5,7 +5,7 @@
     "vendor_code": "111",
     "description": "Со скидкой",
     "price": 20000,
-    "img": "https://github.com/sofashved/Web-Development-2/blob/main/pictures/goods/%D0%9B%D0%BE%D1%84%D1%82%20%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%88%D0%BA%D0%B0%D1%84.jpg"
+    "img": "pictures/goods/loftwhiteshelf.jpg"
   },
   {
     "id": "2",
@@ -21,7 +21,7 @@
     "vendor_code": "333",
     "description": "Большой и уютный",
     "price": 300,
-    "img": "pictures/goods/Лофт коричневый стол.jpg"
+    "img": "pictures/goods/loftbrowntable.jpg"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "vendor_code": "444e",
     "description": "Мягкий",
     "price": 400,
-    "img": "pictures/goods/Лофт синий диван.jpg"
+    "img": "pictures/goods/loftbluesofa.jpg"
   }
   ,
   {
@@ -38,7 +38,7 @@
     "vendor_code": "4445e",
     "description": "Комфортный",
     "price": 400,
-    "img": "pictures/goods/Лофт черный стул.jpg"
+    "img": "pictures/goods/loftblackchair.jpg"
   },
   {
     "id": "6",
