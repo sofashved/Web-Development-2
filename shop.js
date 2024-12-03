@@ -81,7 +81,7 @@ async function getResponse1() {
     //let response = await fetch("https://vmarshirov.github.io/g06u28/030_js/data/0620.json")
     //let response = await fetch("http://185.182.111.214:7628/tmp/g06u28.txt_api.json")
 //    let response = await fetch("shop.json")
-    let response = await fetch("shop.json")
+    let response = await fetch("data.json")
 
     let content = await response.text()
     console.log(content)
@@ -97,16 +97,14 @@ async function getResponse1() {
 
     // sort by name
     content_title=content.sort((a, b) => {
-    const nameA = a.title.toUpperCase(); // ignore upper and lowercase
-    const nameB = b.title.toUpperCase(); // ignore upper and lowercase
-      if (nameA < nameB) {
-        return -1;
+        const nameA = a.title.toUpperCase(); // ignore upper and lowercase
+        const nameB = b.title.toUpperCase(); // ignore upper and lowercase
+        if (nameA < nameB) {
+            return -1;
+        }
+        if (nameA > nameB) {
+            return 1;
       }
-      if (nameA > nameB) {
-        return 1;
-      }
-
-      // names must be equal
       return 0;
     });
 
