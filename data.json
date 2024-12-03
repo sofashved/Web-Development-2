@@ -42,51 +42,155 @@
   },
   {
     "id": "6",
-    "title": "Товар 6",
+    "title": "Белый диван в стиле минимализм",
     "vendor_code": "4446e",
-    "description": "Описание 6",
+    "description": "Чистый",
     "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_1.png"
+    "img": "pictures/goods/minimalismwhitesofa.jpg"
   },
   {
     "id": "7",
-    "title": "Товар 7",
+    "title": "Зеленая кровать в стиле минимализм",
     "vendor_code": "4447e",
-    "description": "Описание 7",
+    "description": "Большая",
     "price": 700,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_2.png"
+    "img": "pictures/goods/minimalismgreenbed.jpg"
   },
   {
     "id": "8",
-    "title": "Товар 8",
+    "title": "Коричневый шкаф в стиле минимализм",
     "vendor_code": "4448e",
-    "description": "Описание 8",
+    "description": "Вместительный",
     "price": 800,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_3.png"
+    "img": "pictures/goods/minimalismbrownshelf.jpg"
   },
   {
     "id": "9",
-    "title": "Товар 9",
+    "title": "Синий стул в стиле минимализм",
     "vendor_code": "4449e",
-    "description": "Описание 9",
+    "description": "Удобный",
     "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_4.png"
+    "img": "pictures/goods/minimalismbluechair.jpg"
   }
   ,
   {
     "id": "10",
-    "title": "Товар 10",
+    "title": "Черный стол в стиле минимализм",
     "vendor_code": "44410e",
-    "description": "Описание 10",
+    "description": "Утонченный",
     "price": 900,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_5.png"
+    "img": "pictures/goods/minimalismblacktable.jpg"
   },
   {
-    "id": "11",
+    "id": "12",
     "title": "Товар 11",
-    "vendor_code": "44411e",
+    "vendor_code": "44412e",
     "description": "Описание 1",
     "price": 1100,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_6.png"
+    "img": "pictures/goods/"
+  },
+    {
+    "id": "13",
+    "title": "Товар 11",
+    "vendor_code": "44413e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "pictures/goods/"
+  },
+    {
+    "id": "14",
+    "title": "Товар 11",
+    "vendor_code": "44414e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "pictures/goods/"
+  },
+    {
+    "id": "15",
+    "title": "Товар 11",
+    "vendor_code": "44415e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "pictures/goods/"
+  },
+    {
+    "id": "16",
+    "title": "Товар 11",
+    "vendor_code": "44416e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "pictures/goods/"
+  },
+    {
+    "id": "17",
+    "title": "Товар 11",
+    "vendor_code": "44417e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "pictures/goods/"
+  },
+    {
+    "id": "18",
+    "title": "Товар 11",
+    "vendor_code": "44418e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "pictures/goods/"
+  },
+    {
+    "id": "19",
+    "title": "Товар 11",
+    "vendor_code": "44419e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "pictures/goods/"
+  },
+    {
+    "id": "20",
+    "title": "Товар 11",
+    "vendor_code": "44420e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "pictures/goods/"
+  },
+    {
+    "id": "21",
+    "title": "Товар 11",
+    "vendor_code": "44421e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "pictures/goods/"
+  },
+    {
+    "id": "22",
+    "title": "Товар 11",
+    "vendor_code": "44422e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "pictures/goods/"
+  },
+    {
+    "id": "23",
+    "title": "Товар 11",
+    "vendor_code": "44423e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "pictures/goods/"
+  },
+    {
+    "id": "24",
+    "title": "Товар 11",
+    "vendor_code": "44424e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "pictures/goods/"
+  },
+    {
+    "id": "25",
+    "title": "Товар 11",
+    "vendor_code": "44425e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "pictures/goods/"
   }
 ]
