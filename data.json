@@ -1,44 +1,44 @@
 [
   {
     "id": "1",
-    "title": "Товар 1",
+    "title": "Белый шкаф в стиле лофт",
     "vendor_code": "111",
-    "description": "Описание 1",
-    "price": 100,
-    "img": "../../images/uso_001.jpg"
+    "description": "Со скидкой",
+    "price": 20000,
+    "img": "pictures/goods/Лофт белый шкаф.jpg"
   },
   {
     "id": "2",
-    "title": "Товар 2",
+    "title": "Зеленая кровать в стиле лофт",
     "vendor_code": "222",
-    "description": "Описание 2",
-    "price": 200,
-    "img": "../../images/uso_002.jpg"
+    "description": "Оригинально и стильно",
+    "price": 30500,
+    "img": "pictures/goods/Лофт зеленый кровать.jpg"
   },
   {
     "id": "3",
-    "title": "Товар 3",
+    "title": "Коричневый стол в стиле лофт",
     "vendor_code": "333",
-    "description": "Описание 3",
+    "description": "Большой и уютный",
     "price": 300,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_003.jpg"
+    "img": "pictures/goods/Лофт коричневый стол.jpg"
   },
   {
     "id": "4",
-    "title": "Товар 4",
+    "title": "Синий диван в стиле лофт",
     "vendor_code": "444e",
-    "description": "Описание 4",
+    "description": "Мягкий",
     "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_004.jpg"
+    "img": "pictures/goods/Лофт синий диван.jpg"
   }
   ,
   {
     "id": "5",
-    "title": "Товар 5",
+    "title": "Черный стул в стиле лофт",
     "vendor_code": "4445e",
-    "description": "Описание 6",
+    "description": "Комфортный",
     "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_005.jpg"
+    "img": "pictures/goods/Лофт черный стул.jpg"
   },
   {
     "id": "6",
@@ -67,7 +67,7 @@
   {
     "id": "9",
     "title": "Товар 9",
-    "vendor_code": "444e",
+    "vendor_code": "4449e",
     "description": "Описание 9",
     "price": 400,
     "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_4.png"
