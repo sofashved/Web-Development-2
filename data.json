@@ -89,7 +89,7 @@
     "price": 11000,
     "img": "pictures/goods/scandinavianwhitetable.jpg"
   },
-    {
+  {
     "id": "12",
     "title": "Зеленый шкаф в скандинавском стиле",
     "vendor_code": "44412e",
@@ -97,7 +97,7 @@
     "price": 101000,
     "img": "pictures/goods/scandinaviangreenshelf.jpg"
   },
-    {
+  {
     "id": "13",
     "title": "Коричневый стул в скандинавском стиле",
     "vendor_code": "44413e",
@@ -105,7 +105,7 @@
     "price": 23000,
     "img": "pictures/goods/scandinavianbrownchair.jpg"
   },
-    {
+  {
     "id": "14",
     "title": "Синий диван в скандинавском стиле",
     "vendor_code": "44414e",
@@ -113,7 +113,7 @@
     "price": 120000,
     "img": "pictures/goods/scandinavianbluesofa.jpg"
   },
-    {
+  {
     "id": "15",
     "title": "Черная кровать в скандинавском стиле",
     "vendor_code": "44415e",
@@ -121,7 +121,7 @@
     "price": 103000,
     "img": "pictures/goods/scandinavianblackbed.jpg"
   },
-    {
+  {
     "id": "16",
     "title": "Белый стол в стиле хай-тек",
     "vendor_code": "44416e",
@@ -129,7 +129,7 @@
     "price": 32000,
     "img": "pictures/goods/high-techwhitetable.jpg"
   },
-    {
+  {
     "id": "17",
     "title": "Зеленый шкаф в стиле хай-тек",
     "vendor_code": "44417e",
@@ -137,7 +137,7 @@
     "price": 95000,
     "img": "pictures/goods/high-techgreenshelf.jpg"
   },
-    {
+  {
     "id": "18",
     "title": "Коричневый диван в стиле хай-тек",
     "vendor_code": "44418e",
@@ -145,7 +145,7 @@
     "price": 142000,
     "img": "pictures/goods/high-techbrownsofa.jpg"
   },
-    {
+  {
     "id": "19",
     "title": "Синяя кровать в стиле хай-тек",
     "vendor_code": "44419e",
@@ -153,7 +153,7 @@
     "price": 80000,
     "img": "pictures/goods/high-techbluebed.jpg"
   },
-    {
+  {
     "id": "20",
     "title": "Черный стул в стиле хай-тек",
     "vendor_code": "44420e",
@@ -161,7 +161,7 @@
     "price": 19000,
     "img": "pictures/goods/high-techblackchair.jpg"
   },
-    {
+  {
     "id": "21",
     "title": "Белая кровать в стиле эко",
     "vendor_code": "44421e",
@@ -169,7 +169,7 @@
     "price": 78000,
     "img": "pictures/goods/ecowhitebed.jpg"
   },
-    {
+  {
     "id": "22",
     "title": "Зеленый диван в стиле эко",
     "vendor_code": "44422e",
@@ -177,7 +177,7 @@
     "price": 83000,
     "img": "pictures/goods/ecogreensofa.jpg"
   },
-    {
+  {
     "id": "23",
     "title": "Коричневый стол в стиле эко",
     "vendor_code": "44423e",
@@ -185,7 +185,7 @@
     "price": 52000,
     "img": "pictures/goods/ecobrowntable.jpg"
   },
-    {
+  {
     "id": "24",
     "title": "Синий стул в стиле эко",
     "vendor_code": "44424e",
@@ -193,7 +193,7 @@
     "price": 32000,
     "img": "pictures/goods/ecobluechair.jpg"
   },
-   {
+  {
     "id": "25",
     "title": "Черный шкаф в стиле эко",
     "vendor_code": "44425e",
