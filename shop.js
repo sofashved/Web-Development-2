@@ -131,7 +131,7 @@ async function getResponse1() {
                 <h5 class="card-title">${content_filter[key].title}</h5>
                 <p class="card-text">${content_filter[key].description}. Цена ${content_filter[key].price} р.</p>
                 <input type="hidden" name= "vendor_code" value=${content_filter[key].vendor_code}>
-                <p class="card-text" >Заказать <input class="w-25" type="checkbox" name="check" value="0" onClick='this.value = this.checked ? 1 : 0'></p>
+                <p class="card-text" >Заказать<input class="w-25" type="number" name="amount" value="0" min="0"></p>
                 </li>
                         `
             }
