@@ -20,7 +20,7 @@
     "title": "Коричневый стол в стиле лофт",
     "vendor_code": "333",
     "description": "Большой и уютный",
-    "price": 300,
+    "price": 20000,
     "img": "pictures/goods/loftbrowntable.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Синий диван в стиле лофт",
     "vendor_code": "444e",
     "description": "Мягкий",
-    "price": 400,
+    "price": 40000,
     "img": "pictures/goods/loftbluesofa.jpg"
   }
   ,
@@ -37,7 +37,7 @@
     "title": "Черный стул в стиле лофт",
     "vendor_code": "4445e",
     "description": "Комфортный",
-    "price": 400,
+    "price": 15000,
     "img": "pictures/goods/loftblackchair.jpg"
   },
   {
@@ -45,7 +45,7 @@
     "title": "Белый диван в стиле минимализм",
     "vendor_code": "4446e",
     "description": "Чистый",
-    "price": 400,
+    "price": 51000,
     "img": "pictures/goods/minimalismwhitesofa.jpg"
   },
   {
@@ -53,7 +53,7 @@
     "title": "Зеленая кровать в стиле минимализм",
     "vendor_code": "4447e",
     "description": "Большая",
-    "price": 700,
+    "price": 70000,
     "img": "pictures/goods/minimalismgreenbed.jpg"
   },
   {
@@ -61,7 +61,7 @@
     "title": "Коричневый шкаф в стиле минимализм",
     "vendor_code": "4448e",
     "description": "Вместительный",
-    "price": 800,
+    "price": 80000,
     "img": "pictures/goods/minimalismbrownshelf.jpg"
   },
   {
@@ -69,7 +69,7 @@
     "title": "Синий стул в стиле минимализм",
     "vendor_code": "4449e",
     "description": "Удобный",
-    "price": 400,
+    "price": 14000,
     "img": "pictures/goods/minimalismbluechair.jpg"
   }
   ,
@@ -78,119 +78,127 @@
     "title": "Черный стол в стиле минимализм",
     "vendor_code": "44410e",
     "description": "Утонченный",
-    "price": 900,
+    "price": 9000,
     "img": "pictures/goods/minimalismblacktable.jpg"
   },
   {
+    "id": "11",
+    "title": "Белый стол в скандинавском стиле",
+    "vendor_code": "44411e",
+    "description": "Устойчивый",
+    "price": 11000,
+    "img": "pictures/goods/scandinavianwhitetable.jpg"
+  },
+    {
     "id": "12",
-    "title": "Товар 11",
+    "title": "Зеленый шкаф в скандинавском стиле",
     "vendor_code": "44412e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "pictures/goods/"
+    "description": "Оригинальный",
+    "price": 101000,
+    "img": "pictures/goods/scandinaviangreenshelf.jpg"
   },
     {
     "id": "13",
-    "title": "Товар 11",
+    "title": "Коричневый стул в скандинавском стиле",
     "vendor_code": "44413e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "pictures/goods/"
+    "description": "Приятный",
+    "price": 23000,
+    "img": "pictures/goods/scandinavianbrownchair.jpg"
   },
     {
     "id": "14",
-    "title": "Товар 11",
+    "title": "Синий диван в скандинавском стиле",
     "vendor_code": "44414e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "pictures/goods/"
+    "description": "Расслабляющий",
+    "price": 120000,
+    "img": "pictures/goods/scandinavianbluesofa.jpg"
   },
     {
     "id": "15",
-    "title": "Товар 11",
+    "title": "Черная кровать в скандинавском стиле",
     "vendor_code": "44415e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "pictures/goods/"
+    "description": "Милая",
+    "price": 103000,
+    "img": "pictures/goods/scandinavianblackbed.jpg"
   },
     {
     "id": "16",
-    "title": "Товар 11",
+    "title": "Белый стол в стиле хай-тек",
     "vendor_code": "44416e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "pictures/goods/"
+    "description": "Глянцевый",
+    "price": 32000,
+    "img": "pictures/goods/high-techwhitetable.jpg"
   },
     {
     "id": "17",
-    "title": "Товар 11",
+    "title": "Зеленый шкаф в стиле хай-тек",
     "vendor_code": "44417e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "pictures/goods/"
+    "description": "Уникальный",
+    "price": 95000,
+    "img": "pictures/goods/high-techgreenshelf.jpg"
   },
     {
     "id": "18",
-    "title": "Товар 11",
+    "title": "Коричневый диван в стиле хай-тек",
     "vendor_code": "44418e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "pictures/goods/"
+    "description": "Успокаивающий",
+    "price": 142000,
+    "img": "pictures/goods/high-techbrownsofa.jpg"
   },
     {
     "id": "19",
-    "title": "Товар 11",
+    "title": "Синяя кровать в стиле хай-тек",
     "vendor_code": "44419e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "pictures/goods/"
+    "description": "Космическая",
+    "price": 80000,
+    "img": "pictures/goods/high-techbluebed.jpg"
   },
     {
     "id": "20",
-    "title": "Товар 11",
+    "title": "Черный стул в стиле хай-тек",
     "vendor_code": "44420e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "pictures/goods/"
+    "description": "Модный",
+    "price": 19000,
+    "img": "pictures/goods/high-techblackchair.jpg"
   },
     {
     "id": "21",
-    "title": "Товар 11",
+    "title": "Белая кровать в стиле эко",
     "vendor_code": "44421e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "pictures/goods/"
+    "description": "Воздушная",
+    "price": 78000,
+    "img": "pictures/goods/ecowhitebed.jpg"
   },
     {
     "id": "22",
-    "title": "Товар 11",
+    "title": "Зеленый диван в стиле эко",
     "vendor_code": "44422e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "pictures/goods/"
+    "description": "Умиротворяющий",
+    "price": 83000,
+    "img": "pictures/goods/ecogreensofa.jpg"
   },
     {
     "id": "23",
-    "title": "Товар 11",
+    "title": "Коричневый стол в стиле эко",
     "vendor_code": "44423e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "pictures/goods/"
+    "description": "Натуральный",
+    "price": 52000,
+    "img": "pictures/goods/ecobrowntable.jpg"
   },
     {
     "id": "24",
-    "title": "Товар 11",
+    "title": "Синий стул в стиле эко",
     "vendor_code": "44424e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "pictures/goods/"
-  },
-    {
+    "description": "Мягкий",
+    "price": 32000,
+    "img": "pictures/goods/ecobluechair.jpg"
+  }
+   {
     "id": "25",
-    "title": "Товар 11",
+    "title": "Черный шкаф в стиле эко",
     "vendor_code": "44425e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "pictures/goods/"
+    "description": "Неповторимый",
+    "price": 67000,
+    "img": "pictures/goods/ecoblackshelf.jpg"
   }
 ]
