@@ -5,7 +5,7 @@
     "vendor_code": "111",
     "description": "Со скидкой",
     "price": 20000,
-    "img": "pictures/goods/Лофт белый шкаф.jpg"
+    "img": "pictures/goods/Лофтбелыйшкаф.jpg"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "vendor_code": "222",
     "description": "Оригинально и стильно",
     "price": 30500,
-    "img": "pictures/goods/Лофт зеленый кровать.jpg"
+    "img": "pictures/goods/loftgreenbed.jpg"
   },
   {
     "id": "3",
