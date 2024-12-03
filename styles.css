@@ -11,7 +11,6 @@ nav {
     display: flex;
     justify-content: center;
     overflow: hidden;
-    max-width: 100%;
 }
 
 nav ul {
@@ -44,7 +43,20 @@ nav a {
     list-style: none;
 }
 
+#insidenavigation {
+    list-style: none;
+}
+
 .insidenavigation a {
+    color: yellow;
+    text-decoration: none;
+    padding: 3px 3px;
+    background-color: black;
+    border-radius: 30px;
+    font-size: 15px
+}
+
+#insidenavigation a {
     color: yellow;
     text-decoration: none;
     padding: 3px 3px;
@@ -83,8 +95,12 @@ h3 {
 }
 
 .imgs {
-    float: left;
-    padding-left: 170px
+    text-align: center;
+}
+
+.imgs img {
+     max-width:100%;
+     height:auto;
 }
 
 .smallimg {
@@ -92,17 +108,12 @@ h3 {
 }
 
 .examplestext {
-    width: 600px;
-
-    padding-right: 250px;
-    padding-top: 70px;
-    font-size: 30px
+    padding-top: 20px;
+    font-size: 30px;
+    height: auto;
+    text-align: center
 }
 
-.examples {
-    text-align: center;
-    height: 800px
-}
 
 #passbg {
     height: 734px;
@@ -189,6 +200,16 @@ h3 {
 
 .Anna {
     height: 300px;
+    float: left
+}
+
+#aboutme {
+    font-size: 25px;
+    text-align: center;
+}
+
+#aboutme p {
+    padding-top: 50px
 }
 
 .main {
@@ -198,8 +219,7 @@ h3 {
     align-items: center;
 }
 
-.list {
-    height: 400px;
+#list {
     font-size: 25px;
     padding-left: 50px
 }
