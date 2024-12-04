@@ -244,3 +244,7 @@ form ul{
 .forma{
     padding-left: 20px
 }
+
+.card{
+    background-image: url("pictures/bg.jpg");
+}    
