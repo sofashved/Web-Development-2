@@ -30,24 +30,10 @@ async function getResponse() {
     console.log(content)
 
   let key
-    /*for (key in content) {
-        console.log(content[key].id, content[key].title)
-        console.log(content[key])
-    }*/
+
     content_price=content.sort((a, b) => a.price - b.price);
 
-    /*
-     products: []
-     filteredProducts: []
-     const query = this.searchQuery.toLowerCase();
-            this.filteredProducts = this.products.filter(product => {
-                return (
-                    product.title.toLowerCase().includes(query) ||
-                    product.description.toLowerCase().includes(query) ||
-                    product.price.toString().includes(query)
-                );
-            });
-    */
+
    content_filter=[]
     let word=document.getElementById('search').value.toLowerCase();
    //let word = 'search'.toLowerCase();
@@ -77,10 +63,7 @@ async function getResponse() {
 
 }
 async function getResponse1() {
-   // let response = await fetch("https://my-json-server.typicode.com/typicode/demo/posts")
-    //let response = await fetch("https://vmarshirov.github.io/g06u28/030_js/data/0620.json")
-    //let response = await fetch("http://185.182.111.214:7628/tmp/g06u28.txt_api.json")
-//    let response = await fetch("shop.json")
+
     let response = await fetch("data.json")
 
     let content = await response.text()
@@ -90,15 +73,11 @@ async function getResponse1() {
     //content.sort()
     console.log(content)
     let key
-    /*for (key in content) {
-        console.log(content[key].id, content[key].title)
-        console.log(content[key])
-    }*/
 
-    // sort by name
+
     content_title=content.sort((a, b) => {
-        const nameA = a.title.toUpperCase(); // ignore upper and lowercase
-        const nameB = b.title.toUpperCase(); // ignore upper and lowercase
+        const nameA = a.title.toUpperCase(); 
+        const nameB = b.title.toUpperCase(); 
         if (nameA < nameB) {
             return -1;
         }
@@ -111,7 +90,7 @@ async function getResponse1() {
 
     content_filter=[]
     let word=document.getElementById('search').value.toLowerCase();
-   //let word = 'search'.toLowerCase();
+
     content_filter= content_title.filter((product) =>{
         return (
                     product.title.toLowerCase().includes(word) ||
@@ -122,7 +101,7 @@ async function getResponse1() {
     });
     console.log(content_filter);
 
-    //node_for_insert.innerHTML='';
+
     let node_for_insert = document.getElementById("node_for_insert")
     for (key in content_filter) {
                 node_for_insert.innerHTML += `
