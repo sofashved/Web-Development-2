@@ -36,7 +36,6 @@ async function getResponse() {
 
    content_filter=[]
     let word=document.getElementById('search').value.toLowerCase();
-   //let word = 'search'.toLowerCase();
     content_filter= content_price.filter((product) =>{
         return (
                     product.title.toLowerCase().includes(word) ||
@@ -48,7 +47,6 @@ async function getResponse() {
     console.log(content_filter);
 
     let node_for_insert = document.getElementById("node_for_insert")
-    //node_for_insert.innerHTML='';
     for (key in content_filter) {
                 node_for_insert.innerHTML += `
                 <li style="width: 310px" class="d-flex flex-column m-1 p-1 border bg-body">
