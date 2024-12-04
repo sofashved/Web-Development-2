@@ -116,3 +116,7 @@ async function getResponse1() {
 }
 
 sort()
+
+const words = [стол, стул, парта]
+ 
+console.log(words.includes('a'))
